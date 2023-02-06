@@ -27,7 +27,7 @@ The expected target audience for this project is any music enthusiast with a bas
 ### Schematic diagram
 
 <p align="center">
-<img alt="Schematic Diagram" src="Images/Schematics.png">
+<img alt="Schematic Diagram" src="Images/schematics.png">
 </p>
                            
 To supply power to the circuit you can use the Arduino USB connector or the Power supply connector (on Arduino Uno).
