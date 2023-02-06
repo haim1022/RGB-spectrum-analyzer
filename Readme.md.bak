@@ -1,6 +1,6 @@
 # Arduino audio spectrum visualizer / analyzer
 
-![Main Image](Images/Main_photo.JPG)
+![Main Image](images/Main_photo.jpg)
 
 This project allows you to make your own 1 band audio/music frequency spectrum analyzer/visualizer using an Arduino and other basic electronic components.
 In this case I placed the audio analyzer in my half transparent closet and gave it a cool look with RGB LEDs which responds to the music I am currently playing using a microphone.
@@ -27,7 +27,7 @@ The expected target audience for this project is any music enthusiast with a bas
 ### Schematic diagram
 
 <p align="center">
-<img alt="Schematic Diagram" src="Images/Schematics.png">
+<img alt="Schematic Diagram" src="images/Arduino%20spectrum%20analyzer%20-%20schematic_fixed_1.png">
 </p>
                            
 To supply power to the circuit you can use the Arduino USB connector or the Power supply connector (on Arduino Uno).
@@ -46,7 +46,7 @@ Using the infrared receiver, you can turn the system on or off.
 
 ## Code
 
-Code is available [here](Code/RGBSpectrumAnalyzer.ino)
+Code is available [here](Code/Arduino-32band-audio-spectrum-visualizer-analyzer.ino)
 
 ### Watch this project in action
 
